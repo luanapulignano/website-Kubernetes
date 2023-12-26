@@ -1,0 +1,10 @@
+[submodule "themes/hugo-learn"]
+	path = themes/hugo-learn
+	url = https://github.com/matcornic/hugo-theme-learn.git
+[submodule "path/to/website/themes/blowfish"]
+	path = path/to/website/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
+[submodule "path/to/website/themes/beautifulhugo"]
+	path = path/to/website/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
